@@ -8,9 +8,11 @@ MODASYS builds on Holos V4.0, originally developed by Agriculture and Agri-Food 
 
 This repository holds the released installers. The source code is at [MODASYS-HQ/MODASYS](https://github.com/MODASYS-HQ/MODASYS).
 
+> **Beta version.** MODASYS is in beta, released for testing and case studies. Results may change in later versions, and we would be glad to hear about any problems you find (see [Feedback](#feedback)).
+
 # Download
 
-Download `MODASYS.msi` from the latest release on the [Releases](https://github.com/MODASYS-HQ/MODASYS-Release/releases/latest) page. It is a single file of about 100 MB and includes the .NET runtime, so nothing else needs to be installed first.
+Download `MODASYS.msi` (beta) from the latest release on the [Releases](https://github.com/MODASYS-HQ/MODASYS-Release/releases/latest) page. It is a single file of about 100 MB and includes the .NET runtime, so nothing else needs to be installed first.
 
 # Installing MODASYS
 
