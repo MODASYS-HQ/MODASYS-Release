@@ -31,6 +31,6 @@ We welcome feedback from researchers, farmers and industry to help us improve th
 
 # License
 
-Unless otherwise noted, the source code of this project is covered under Crown Copyright, Government of Canada, and is distributed under the GNU General Public License (GPLv3).
+MODASYS is developed by University College Dublin (UCD) from Holos, which is Crown Copyright, Government of Canada. Unless otherwise noted, the original Holos source code remains under Crown Copyright, and the MODASYS modifications and additions are copyright University College Dublin, 2024–2026. The whole project is distributed under the [GNU General Public License (GPLv3)](LICENSE).
 
-The Canada wordmark and related graphics associated with this distribution are protected under trademark law and copyright law. No permission is granted to use them outside the parameters of the Government of Canada's corporate identity program. For more information, see <a href="https://www.canada.ca/en/treasury-board-secretariat/topics/government-communications/federal-identity-requirements.html" target="_blank">Federal identity requirements</a>.
+The MODASYS name and logo, and UCD's own data, documentation and user guide, may not be used for commercial purposes without prior written permission from UCD and the MODASYS project consortium. This does not limit the rights the GPLv3 gives you over the source code.
