@@ -21,6 +21,10 @@ Download `MODASYS.msi` (beta) from the latest release on the [Releases](https://
 - The installer is not code-signed yet, so Windows SmartScreen may warn about an unknown publisher. Click **More info**, then **Run anyway**.
 - Installing a newer `MODASYS.msi` replaces the older version. To remove MODASYS, use **Settings → Apps → Installed apps**.
 
+# User guide
+
+The [MODASYS User Guide](docs/MODASYS_User_Guide.pdf) (PDF) walks through setting up a farm, entering its components and reading the results.
+
 # Feedback
 
 We welcome feedback from researchers, farmers and industry to help us improve this software. For more information on MODASYS, please contact ibrahim.khalil1@ucd.ie.
