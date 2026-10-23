@@ -12,14 +12,14 @@ This repository holds the released installers. The source code is at [MODASYS-HQ
 
 # Download
 
-Download `MODASYS.msi` (beta) from the latest release on the [Releases](https://github.com/MODASYS-HQ/MODASYS-Release/releases/latest) page. It is a single file of about 100 MB and includes the .NET runtime, so nothing else needs to be installed first.
+Download `MODASYS-Setup.exe` (beta) from the latest release on the [Releases](https://github.com/MODASYS-HQ/MODASYS-Release/releases/latest) page. It is a single file of about 100 MB and includes the .NET runtime, so nothing else needs to be installed first.
 
 # Installing MODASYS
 
 - Requires 64-bit Windows 10 or 11.
-- Double-click `MODASYS.msi`. No administrator rights are needed: MODASYS is installed for the current user only, in `%LocalAppData%\Programs\MODASYS`, with shortcuts on the Start menu and the desktop.
+- Double-click `MODASYS-Setup.exe`, accept the licence terms and click **Install**. No administrator rights are needed: MODASYS is installed for the current user only, in `%LocalAppData%\Programs\MODASYS`, with shortcuts on the Start menu and the desktop.
 - The installer is not code-signed yet, so Windows SmartScreen may warn about an unknown publisher. Click **More info**, then **Run anyway**.
-- Installing a newer `MODASYS.msi` replaces the older version. To remove MODASYS, use **Settings → Apps → Installed apps**.
+- Installing a newer `MODASYS-Setup.exe` replaces the older version. To remove MODASYS, use **Settings → Apps → Installed apps**.
 
 # User guide
 
